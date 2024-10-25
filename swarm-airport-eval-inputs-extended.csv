@@ -1,0 +1,38 @@
+Question,ToolName,NumberToolCalls
+I want to change my flight to one day earlier!,flight_change,2
+I want to cancel my flight. I can't make it anymore due to a personal conflict,flight_cancel,2
+I dont want this flight,None,0
+My bag was not delivered!,lost_baggage,1
+I had some turbulence on my flight,None,0
+I want to cancel my flight please,flight_modification_agent,1
+What is the meaning of life,None,0
+Can I move my flight to the previous day?,flight_change,2
+Is it possible to reschedule my flight for 24 hours earlier?,flight_change,2
+I need to cancel my upcoming flight due to unforeseen circumstances,flight_cancel,2
+I have to cancel my flight booking because of a family emergency,flight_cancel,2
+This flight doesn't work for me anymore,None,0
+I'm no longer interested in taking this flight,None,0
+My luggage hasn't arrived at the destination,lost_baggage,1
+I can't locate my checked bag after landing,lost_baggage,1
+The flight I was on experienced some rough air,None,0
+We hit some bumpy patches during the flight,None,0
+I'd like to cancel my flight reservation,flight_modification_agent,1
+Could you help me cancel my flight booking?,flight_modification_agent,1
+What's the purpose of existence?,None,0
+Can you explain the significance of our existence?,None,0
+Is it possible to change my flight to a day sooner?,flight_change,2
+I want to fly out one day earlier than planned,flight_change,2
+Need to cancel my flight due to a scheduling conflict,flight_cancel,2
+I have to back out of my flight due to an unexpected issue,flight_cancel,2
+I'm not going to be able to make this flight,None,0
+This flight no longer fits my plans,None,0
+My suitcase is missing after my flight,lost_baggage,1
+I can't find my checked luggage at the airport,lost_baggage,1
+There was some shaking during my recent flight,None,0
+My flight encountered some unstable air,None,0
+I need to cancel my flight booking,flight_modification_agent,1
+Can you assist me in cancelling my flight?,flight_modification_agent,1
+What gives life its meaning?,None,0
+Can you tell me the point of human existence?,None,0
+I'd like to depart a day earlier than scheduled,flight_change,2
+Can you help me fly out 24 hours before my current booking?,flight_change,2

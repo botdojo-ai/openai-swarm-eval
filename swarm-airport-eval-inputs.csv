@@ -1,0 +1,8 @@
+Question,ToolName,NumberToolCalls
+I want to change my flight to one day earlier!,flight_change,2
+I want to cancel my flight. I can't make it anymore due to a personal conflict,flight_cancel,2
+I dont want this flight,None,0
+My bag was not delivered!,lost_baggage,1
+I had some turbulence on my flight,None,0
+I want to cancel my flight please,flight_modification_agent,1
+What is the meaning of life,None,0
